@@ -6,6 +6,7 @@
 FuturePay is perfect for anyone who wants to make big purchases without putting a strain on their budget. 
 Whether you need a new appliance, furniture, or electronics, our app makes it easy to get what you need without having to worry about upfront costs.
 
+## Backend: Firebase
 
 # Screen Captures
 
